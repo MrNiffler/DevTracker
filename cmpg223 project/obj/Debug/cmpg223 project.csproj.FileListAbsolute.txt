@@ -1,0 +1,15 @@
+C:\Users\Bethel\Documents\@NWU\SECOND SEMESTER\CMPG223\final project\cmpg223 project\bin\Debug\DevTrackerDB.mdf
+C:\Users\Bethel\Documents\@NWU\SECOND SEMESTER\CMPG223\final project\cmpg223 project\bin\Debug\DevTrackerDB_log.ldf
+C:\Users\Bethel\Documents\@NWU\SECOND SEMESTER\CMPG223\final project\cmpg223 project\bin\Debug\cmpg223 project.exe.config
+C:\Users\Bethel\Documents\@NWU\SECOND SEMESTER\CMPG223\final project\cmpg223 project\bin\Debug\cmpg223 project.exe
+C:\Users\Bethel\Documents\@NWU\SECOND SEMESTER\CMPG223\final project\cmpg223 project\bin\Debug\cmpg223 project.pdb
+C:\Users\Bethel\Documents\@NWU\SECOND SEMESTER\CMPG223\final project\cmpg223 project\obj\Debug\cmpg223 project.csproj.AssemblyReference.cache
+C:\Users\Bethel\Documents\@NWU\SECOND SEMESTER\CMPG223\final project\cmpg223 project\obj\Debug\cmpg223_project.Properties.Resources.resources
+C:\Users\Bethel\Documents\@NWU\SECOND SEMESTER\CMPG223\final project\cmpg223 project\obj\Debug\cmpg223 project.csproj.GenerateResource.cache
+C:\Users\Bethel\Documents\@NWU\SECOND SEMESTER\CMPG223\final project\cmpg223 project\obj\Debug\cmpg223 project.csproj.CoreCompileInputs.cache
+C:\Users\Bethel\Documents\@NWU\SECOND SEMESTER\CMPG223\final project\cmpg223 project\obj\Debug\cmpg223 project.exe
+C:\Users\Bethel\Documents\@NWU\SECOND SEMESTER\CMPG223\final project\cmpg223 project\obj\Debug\cmpg223 project.pdb
+C:\Users\Bethel\Documents\@NWU\SECOND SEMESTER\CMPG223\final project\cmpg223 project\obj\Debug\cmpg223_project.FrmDeveloper.resources
+C:\Users\Bethel\Documents\@NWU\SECOND SEMESTER\CMPG223\final project\cmpg223 project\obj\Debug\cmpg223_project.registration.resources
+C:\Users\Bethel\Documents\@NWU\SECOND SEMESTER\CMPG223\final project\cmpg223 project\obj\Debug\cmpg223_project.Login.resources
+C:\Users\Bethel\Documents\@NWU\SECOND SEMESTER\CMPG223\final project\cmpg223 project\obj\Debug\cmpg223_project.Form3.resources
